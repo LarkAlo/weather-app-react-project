@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/LarkAlo/weather-react-app"
+            href="https://github.com/LarkAlo/weather-app-react-project"
             target="_blank"
             rel="noopener noreferrer"
           >
