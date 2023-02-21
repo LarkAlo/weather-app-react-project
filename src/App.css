@@ -1,6 +1,6 @@
 .App {
-  max-width: 600px;
-  margin: 30px auto;
+  max-width: 800px;
+  margin: 60px auto;
 }
 
 .App footer {
@@ -15,8 +15,9 @@ html {
 
 body {
   background-image: url(./images/sunrise.jpg);
-  padding: 50px;
-  margin: 50px;
+  padding: 40px;
+  margin: 60px 70px;
   border-radius: 24px;
   background-size: cover;
+  box-shadow: 0px 30px 50px;
 }

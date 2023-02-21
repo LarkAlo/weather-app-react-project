@@ -5,11 +5,14 @@
   padding-bottom: 30px;
 }
 
-.WeatherForecast .WeatherForecast-temperatures {
-  color: #F46D6F;
+.WeatherForecast .Forecast-temperatures {
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #f46d6f;
 }
 
-.WeatherForecast-temp-min {
-  opacity: 0.6;
+.WeatherForecast .WeatherForecast-temp-min {
+  opacity: 0.7;
   margin-left: 5px;
 }
